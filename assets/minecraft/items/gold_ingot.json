@@ -9,8 +9,8 @@
     "entries": [
         { "threshold": 1, "model": { "type": "model", "model": "sbcore:item/mct/citystuff/trashcontainer" } },
         { "threshold": 2, "model": { "type": "model", "model": "sbcore:item/mct/citystuff/barricade" } },
-        { "threshold": 3, "model": { "type": "model", "model": "sbcore:item/mct/citystuff/mct/trafficcone" } },
-        { "threshold": 4, "model": { "type": "model", "model": "sbcore:item/mct/citystuff/mct/trashcan" } }
+        { "threshold": 3, "model": { "type": "model", "model": "sbcore:item/mct/citystuff/trafficcone" } },
+        { "threshold": 4, "model": { "type": "model", "model": "sbcore:item/mct/citystuff/trashcan" } }
     ] 
   } 
 } 
