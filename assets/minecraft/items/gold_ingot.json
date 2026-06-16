@@ -13,4 +13,4 @@
         { "threshold": 4, "model": { "type": "model", "model": "sbcore:item/mct/citystuff/mct/trashcan" } }
     ] 
   } 
-}
+} 
