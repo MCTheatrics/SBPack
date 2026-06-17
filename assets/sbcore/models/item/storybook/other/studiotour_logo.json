@@ -2,7 +2,7 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/custom/sbs/studiotour_logo"
+		"1": "sbcore:item/storybook/other/studiotour_logo"
 	},
 	"elements": [
 		{
