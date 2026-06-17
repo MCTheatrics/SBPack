@@ -27,7 +27,8 @@
         { "threshold": 18, "model": { "type": "model", "model": "sbcore:item/storybook/other/studiotour_logo" } },
         { "threshold": 19, "model": { "type": "model", "model": "sbcore:item/storybook/other/sword_nightfalls" } },
         { "threshold": 20, "model": { "type": "model", "model": "sbcore:item/storybook/other/teacup" } },
-        { "threshold": 21, "model": { "type": "model", "model": "sbcore:item/storybook/other/wine" } }
+        { "threshold": 21, "model": { "type": "model", "model": "sbcore:item/storybook/other/wine" } },
+        { "threshold": 4, "model": { "type": "model", "model": "sbcore:item/storybook/other/director_chair" } }
     ] 
   } 
 } 
