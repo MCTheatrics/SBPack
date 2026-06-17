@@ -1,0 +1,33 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/copper_ingot"
+    },
+    "entries": [
+        { "threshold": 1, "model": { "type": "model", "model": "sbcore:item/storybook/other/auradonshield" } },
+        { "threshold": 2, "model": { "type": "model", "model": "sbcore:item/mct/citystuff/bowl" } },
+        { "threshold": 3, "model": { "type": "model", "model": "sbcore:item/mct/citystuff/coffee_pot" } },
+        { "threshold": 4, "model": { "type": "model", "model": "sbcore:item/mct/citystuff/flamingo_cupcake_plate" } },
+        { "threshold": 5, "model": { "type": "model", "model": "sbcore:item/mct/citystuff/flamingo_cupcake" } },
+        { "threshold": 6, "model": { "type": "model", "model": "sbcore:item/mct/citystuff/golf_cart" } },
+        { "threshold": 7, "model": { "type": "model", "model": "sbcore:item/mct/citystuff/headset_mic" } },
+        { "threshold": 8, "model": { "type": "model", "model": "sbcore:item/mct/citystuff/hp_charger" } },
+        { "threshold": 9, "model": { "type": "model", "model": "sbcore:item/mct/citystuff/hwaboon" } },
+        { "threshold": 10, "model": { "type": "model", "model": "sbcore:item/mct/citystuff/laptop" } },
+        { "threshold": 11, "model": { "type": "model", "model": "sbcore:item/mct/citystuff/pie_rack" } },
+        { "threshold": 12, "model": { "type": "model", "model": "sbcore:item/mct/citystuff/pie" } },
+        { "threshold": 13, "model": { "type": "model", "model": "sbcore:item/mct/citystuff/plate_stack" } },
+        { "threshold": 14, "model": { "type": "model", "model": "sbcore:item/mct/citystuff/plate" } },
+        { "threshold": 15, "model": { "type": "model", "model": "sbcore:item/mct/citystuff/rack" } },
+        { "threshold": 16, "model": { "type": "model", "model": "sbcore:item/mct/citystuff/small_cart" } },
+        { "threshold": 17, "model": { "type": "model", "model": "sbcore:item/mct/citystuff/spatula" } },
+        { "threshold": 18, "model": { "type": "model", "model": "sbcore:item/mct/citystuff/studiotour_logo" } },
+        { "threshold": 19, "model": { "type": "model", "model": "sbcore:item/mct/citystuff/sword_nightfalls" } },
+        { "threshold": 20, "model": { "type": "model", "model": "sbcore:item/mct/citystuff/teacup" } },
+        { "threshold": 21, "model": { "type": "model", "model": "sbcore:item/mct/citystuff/wine" } }
+    ] 
+  } 
+} 
