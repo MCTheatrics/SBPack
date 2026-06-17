@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [8, 8],
 	"textures": {
-		"0": "item/custom/sbs/director_chair",
-		"particle": "item/custom/sbs/director_chair"
+		"0": "sbcore:item/storybook/other/director_chair",
+		"particle": "sbcore:item/storybook/other/director_chair"
 	},
 	"elements": [
 		{
