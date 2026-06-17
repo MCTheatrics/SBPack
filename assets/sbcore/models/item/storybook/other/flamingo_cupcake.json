@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/custom/sbs/flamingo_cupcake",
-		"particle": "item/custom/sbs/flamingo_cupcake"
+		"0": "sbcore:item/storybook/other/flamingo_cupcake",
+		"particle": "sbcore:item/storybook/other/flamingo_cupcake"
 	},
 	"elements": [
 		{
