@@ -3,8 +3,8 @@
 	"credit": "MadewithBlockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"1": "sbcore:item/mct/citystuff/trashcontainer",
-		"particle": "sbcore:item/mct/citystuff/trashcontainer"
+		"1": "sbcore:item/mct/citystuff/trash_container",
+		"particle": "sbcore:item/mct/citystuff/trash_container"
 	},
 	"elements": [
 		{
