@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/custom/sbs/coffee_pot",
-		"particle": "item/custom/sbs/coffee_pot"
+		"0": "sbcore:item/storybook/other/coffee_pot",
+		"particle": "sbcore:item/storybook/other/coffee_pot"
 	},
 	"elements": [
 		{
