@@ -8,8 +8,6 @@
     },
     "entries": [
         { "threshold": 1, "model": { "type": "model", "model": "sbcore:item/mct/sombreado1" } },
-		{ "threshold": 2, "model": { "type": "model", "model": "sbcore:item/mct/sombreado2" } }
-		
     ] 
   } 
 }
