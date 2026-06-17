@@ -3,9 +3,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"4": "item/custom/sbs/rack",
-		"5": "item/custom/sbs/pie",
-		"particle": "item/custom/sbs/rack"
+		"4": "sbcore:item/storybook/other/rack",
+		"5": "sbcore:item/storybook/other/pie",
+		"particle": "sbcore:item/storybook/other/rack"
 	},
 	"elements": [
 		{
