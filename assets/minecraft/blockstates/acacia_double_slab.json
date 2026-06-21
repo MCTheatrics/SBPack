@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/cube_column",
+  "parent": "minecraft:block/cube_all",
   "textures": {
     "end": "minecraft:block/acacia_double_slab_top",
     "side": "minecraft:block/acacia_double_slab"
