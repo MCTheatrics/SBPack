@@ -7,7 +7,8 @@
       "model": "item/iron_ingot"
     },
     "entries": [
-        { "threshold": 1, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/glindabubble" } }
+        { "threshold": 1, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/glindabubble" } },
+        { "threshold": 1, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/glindacrown" } }
     ] 
   } 
 } 
