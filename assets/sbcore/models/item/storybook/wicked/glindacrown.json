@@ -2,8 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/glindacrown",
-		"particle": "block/glindacrown"
+		"0": "sbcore:item/storybook/wicked/glindacrown",
+		"particle": "sbcore:item/storybook/wicked/glindacrown"
 	},
 	"elements": [
 		{
