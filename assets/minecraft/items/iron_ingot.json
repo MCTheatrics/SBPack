@@ -15,7 +15,7 @@
         { "threshold": 6, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/closed_book" } },
         { "threshold": 7, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/open_book" } },
         { "threshold": 8, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/elphaba_baby" } },
-        { "threshold": 9, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/suticase1" } },
+        { "threshold": 9, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/suitcase1" } },
         { "threshold": 10, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/wicked-map" } }
     ] 
   } 
