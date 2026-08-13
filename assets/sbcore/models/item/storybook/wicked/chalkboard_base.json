@@ -3,8 +3,8 @@
 	"credit": "made by elizbet! ★",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "block/chalkboard_base",
-		"particle": "block/chalkboard_base"
+		"0": "sbcore:item/storybook/wicked/chalkboard_base",
+		"particle": "sbcore:item/storybook/wicked/chalkboard_base"
 	},
 	"elements": [
 		{
