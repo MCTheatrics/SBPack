@@ -9,7 +9,14 @@
     "entries": [
         { "threshold": 1, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/glindabubble" } },
         { "threshold": 2, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/glindacrown" } },
-        { "threshold": 3, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/nessachair1" } }
+        { "threshold": 3, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/nessachair1" } },
+        { "threshold": 4, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/chalkboard_base" } },
+        { "threshold": 5, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/chalkboard" } },
+        { "threshold": 6, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/closed_book" } },
+        { "threshold": 7, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/open_book" } },
+        { "threshold": 8, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/elphaba_baby" } },
+        { "threshold": 9, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/suticase1" } },
+        { "threshold": 10, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/wicked-map" } }
     ] 
   } 
 } 
