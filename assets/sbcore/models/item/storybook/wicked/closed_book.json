@@ -3,8 +3,8 @@
 	"credit": "Made by elizbet.",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/closed_book",
-		"particle": "block/closed_book"
+		"0": "sbcore:item/storybook/wicked/closed_book",
+		"particle": "sbcore:item/storybook/wicked/closed_book"
 	},
 	"elements": [
 		{
