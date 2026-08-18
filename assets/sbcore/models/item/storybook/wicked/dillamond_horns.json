@@ -4,7 +4,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "sbcore:item/storybook/wicked/dillamond_horns",
-		"particle": "sbcore:item/storybook/wicked/dillamond_horn"
+		"particle": "sbcore:item/storybook/wicked/dillamond_horns"
 	},
 	"elements": [
 		{
