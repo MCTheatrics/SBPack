@@ -2,8 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "made by elizbet! ★",
 	"textures": {
-		"0": "sbs_wicked_logo",
-		"particle": "sbs_wicked_logo"
+		"0": "sbcore:item/storybook/other/sbs_wicked_logo",
+		"particle": "sbcore:item/storybook/other/sbs_wicked_logo"
 	},
 	"elements": [
 		{
