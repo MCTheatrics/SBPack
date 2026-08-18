@@ -3,8 +3,8 @@
 	"credit": "made by elizbet! ★",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "timedragon_head",
-		"particle": "timedragon_head"
+		"0": "sbcore:item/storybook/wicked/timedragon_head",
+		"particle": "sbcore:item/storybook/wicked/timedragon_head"
 	},
 	"elements": [
 		{
