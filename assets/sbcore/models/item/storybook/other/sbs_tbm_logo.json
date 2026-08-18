@@ -2,8 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made by elizbet.",
 	"textures": {
-		"0": "sbs_tbm_logo",
-		"particle": "sbs_tbm_logo"
+		"0": "sbcore:item/storybook/other/sbs_tbm_logo",
+		"particle": "sbcore:item/storybook/other/sbs_tbm_logo"
 	},
 	"elements": [
 		{
