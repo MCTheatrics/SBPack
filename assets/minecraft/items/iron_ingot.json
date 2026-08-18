@@ -17,8 +17,7 @@
         { "threshold": 8, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/elphaba_baby" } },
         { "threshold": 9, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/suitcase1" } },
         { "threshold": 10, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/wicked-map" } },
-        { "threshold": 11, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/timedragon_head" } },
-        { "threshold": 12, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/dillamond_horns" } }
+        { "threshold": 11, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/timedragon_head" } }
     ] 
   } 
 } 
