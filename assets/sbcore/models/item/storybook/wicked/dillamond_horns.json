@@ -3,8 +3,8 @@
 	"credit": "made by elizbet! ★",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "sbcore:item/storybook/wicked/dillamond_horns",
-		"particle": "sbcore:item/storybook/wicked/dillamond_horns"
+		"0": "sbcore:block/dillamond_horns",
+		"particle": "sbcore:block/dillamond_horns"
 	},
 	"elements": [
 		{
