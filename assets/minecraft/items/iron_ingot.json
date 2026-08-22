@@ -21,7 +21,9 @@
         { "threshold": 12, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/dillamond_horns" } },
         { "threshold": 13, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/fiyero_carriage" } },
         { "threshold": 14, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/fiyero_horse" } },
-        { "threshold": 15, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/fiyerocart_wheel" } }
+        { "threshold": 15, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/fiyerocart_wheel" } },
+        { "threshold": 16, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/chisteryhair" } },
+        { "threshold": 17, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/cowardlylion" } }
     ] 
   } 
 } 
