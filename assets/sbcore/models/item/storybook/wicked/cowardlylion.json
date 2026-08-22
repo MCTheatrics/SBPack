@@ -3,8 +3,8 @@
 	"credit": "Made by elizbet.",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "sbcore:item/storybook/wicked/cowardlylion",
-		"particle": "sbcore:item/storybook/wicked/cowardlylion"
+		"0": "sbcore:item/storybook/wicked/cowardlylionmane",
+		"particle": "sbcore:item/storybook/wicked/cowardlylionmane"
 	},
 	"elements": [
 		{
