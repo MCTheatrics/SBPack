@@ -1,0 +1,72 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made by elizbet.",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "sbcore:item/storybook/wicked/elphaba_hat_glasses",
+		"particle": "sbcore:item/storybook/wicked/elphaba_hat_glasses"
+	},
+	"elements": [
+		{
+			"from": [8, -4.4, 5.9],
+			"to": [11.4, -1.2, 5.9],
+			"rotation": {"angle": -10, "axis": "x", "origin": [7, -3.7, 3.9]},
+			"faces": {
+				"north": {"uv": [6.75, 14.25, 8.75, 15.75], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 1.6], "texture": "#0"},
+				"south": {"uv": [8.75, 14.25, 6.75, 15.75], "texture": "#0"},
+				"west": {"uv": [1, 0, 1, 1.6], "texture": "#0"},
+				"up": {"uv": [0, 1, 2.8, 1], "texture": "#0"},
+				"down": {"uv": [0, 0, 2.8, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4.6, -4.4, 5.9],
+			"to": [8, -1.2, 5.9],
+			"rotation": {"angle": -10, "axis": "x", "origin": [9, -3.7, 3.9]},
+			"faces": {
+				"north": {"uv": [8.75, 14.25, 6.75, 15.75], "texture": "#0"},
+				"east": {"uv": [1, 0, 1, 1.6], "texture": "#0"},
+				"south": {"uv": [6.75, 14.25, 8.75, 15.75], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 1.6], "texture": "#0"},
+				"up": {"uv": [2.8, 1, 0, 1], "texture": "#0"},
+				"down": {"uv": [2.8, 0, 0, 0], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [69, 0, 0],
+			"translation": [0, 2.5, 11.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [69, 0, 0],
+			"translation": [0, 2.5, 11.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [-180, 29.5, -180],
+			"translation": [5.5, 16.5, -5.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-180, 29.5, -180],
+			"translation": [5.5, 16.5, -5.75]
+		},
+		"ground": {
+			"translation": [0, 8.75, 0]
+		},
+		"gui": {
+			"translation": [0, 17.5, 0],
+			"scale": [1.75, 1.75, 1.75]
+		},
+		"head": {
+			"rotation": [12.25, 0, 0],
+			"translation": [0, 13.5, 2],
+			"scale": [2, 1.75, 2.1]
+		},
+		"fixed": {
+			"rotation": [11, 0, 0],
+			"translation": [0, 19.25, 9],
+			"scale": [2, 2, 2]
+		}
+	}
+}
