@@ -23,7 +23,11 @@
         { "threshold": 14, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/fiyero_horse" } },
         { "threshold": 15, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/fiyerocart_wheel" } },
         { "threshold": 16, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/chisteryhair" } },
-        { "threshold": 17, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/cowardlylion" } }
+        { "threshold": 17, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/cowardlylion" } },
+        { "threshold": 18, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/elphaba_broom" } },
+        { "threshold": 19, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/elphaba_glasses" } },
+        { "threshold": 20, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/elphaba_hat_glasses" } },
+        { "threshold": 21, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/elphaba_hat" } }
     ] 
   } 
 } 
