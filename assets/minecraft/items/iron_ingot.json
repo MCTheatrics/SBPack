@@ -33,7 +33,8 @@
         { "threshold": 24, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/lion_cart_nocage" } },
         { "threshold": 25, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/lion_cart_nosyringe" } },
         { "threshold": 26, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/lion_cart_uncovered" } },
-        { "threshold": 27, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/syringe" } }
+        { "threshold": 27, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/syringe" } },
+        { "threshold": 28, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/fiyero_satchel" } }
     ] 
   } 
 } 
