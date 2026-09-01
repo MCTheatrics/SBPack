@@ -40,7 +40,8 @@
         { "threshold": 31, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/wizard_jaw" } },
         { "threshold": 32, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/wizard_head" } },
         { "threshold": 33, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/wizard_eye" } },
-        { "threshold": 34, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/silver_slippers" } }
+        { "threshold": 34, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/silver_slippers" } },
+        { "threshold": 35, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/monkey_wings" } }
     ] 
   } 
 } 
