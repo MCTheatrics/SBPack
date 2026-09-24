@@ -10,8 +10,8 @@
           "type": "minecraft:condition",
           "model": "minecraft:using_item",
 	  "property": "minecraft:custom_model_data",
-	  "on_true": { "type": "minecraft:model", "model": "minecraft:item/elphaba_pointed" },
-	  "on_false": { "type": "minecraft:model", "model": "minecraft:item/elphaba_pointed" }
+	  "on_true": { "type": "model", "model": "sbcore:item/storybook/wicked/elphaba_pointed" },
+	  "on_false": { "type": "model", "model": "sbcore:item/storybook/wicked/elphaba_pointed" },
         }
       }
     ],
