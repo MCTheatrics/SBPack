@@ -45,7 +45,8 @@
         { "threshold": 36, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/ozian_soldier_hat" } },
         { "threshold": 37, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/averic_hat" } },
         { "threshold": 38, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/elphaba_hat_sunglasses" } },
-        { "threshold": 39, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/oz_sunglasses" } }
+        { "threshold": 39, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/oz_sunglasses" } },
+        { "threshold": 40, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/glasses_case" } }
     ] 
   } 
 } 
