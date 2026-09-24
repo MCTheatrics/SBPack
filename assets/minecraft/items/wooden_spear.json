@@ -7,18 +7,51 @@
       {
         "when": "1001",
         "model": {
-          "type": "minecraft:condition",
-          "model": "minecraft:using_item",
-	  "property": "minecraft:custom_model_data",
-	  "on_true": { "type": "model", "model": "sbcore:item/storybook/wicked/elphaba_pointed" },
-	  "on_false": { "type": "model", "model": "sbcore:item/storybook/wicked/elphaba_pointed" },
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "model": {
+                "type": "minecraft:model",
+                "model": "sbcore:item/storybook/wicked/elphaba_pointed"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "sbcore:item/storybook/wicked/elphaba_pointed"
+          }
         }
       }
     ],
     "fallback": {
-      "type": "minecraft:model",
-      "model": "minecraft:item/wooden_spear"
+      "type": "minecraft:select",
+      "property": "minecraft:display_context",
+      "cases": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/wooden_spear"
+          },
+          "when": [
+            "gui",
+            "ground",
+            "fixed",
+            "on_shelf"
+          ]
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/wooden_spear_in_hand"
+      }
     }
-  }
+  },
+  "swap_animation_scale": 1.95
 }
-
