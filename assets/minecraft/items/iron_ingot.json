@@ -48,7 +48,8 @@
         { "threshold": 39, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/oz_sunglasses" } },
         { "threshold": 40, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/glasses_case" } },
         { "threshold": 41, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/nesschairshiz" } },
-        { "threshold": 42, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/nesschairozdust" } }
+        { "threshold": 42, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/nesschairozdust" } },
+        { "threshold": 43, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/grimmerieclosed" } }
     ] 
   } 
 } 
