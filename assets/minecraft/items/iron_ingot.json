@@ -50,7 +50,10 @@
         { "threshold": 41, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/nesschairshiz" } },
         { "threshold": 42, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/nesschairozdust" } },
         { "threshold": 43, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/grimmerieclosed" } },
-        { "threshold": 44, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/grimmerieopen" } }
+        { "threshold": 44, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/grimmerieopen" } },
+        { "threshold": 45, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/elphaba_cape" } },
+        { "threshold": 46, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/melting_bucket_down" } },
+        { "threshold": 47, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/melting_bucket_up" } }
     ] 
   } 
 } 
