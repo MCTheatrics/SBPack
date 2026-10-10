@@ -60,7 +60,8 @@
         { "threshold": 51, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/yellow_umbrella" } },
         { "threshold": 52, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/fiyero_scarecrow" } },
         { "threshold": 53, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/nesschairact2" } },
-        { "threshold": 54, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/smallknife" } }
+        { "threshold": 54, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/smallknife" } },
+        { "threshold": 55, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/nesschairnolegs" } }
     ] 
   } 
 } 
