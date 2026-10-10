@@ -53,7 +53,12 @@
         { "threshold": 44, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/grimmerieopen" } },
         { "threshold": 45, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/elphaba_cape" } },
         { "threshold": 46, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/melting_bucket_down" } },
-        { "threshold": 47, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/melting_bucket_up" } }
+        { "threshold": 47, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/melting_bucket_up" } },
+        { "threshold": 48, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/belly" } },
+        { "threshold": 49, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/funnel" } },
+        { "threshold": 50, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/black_umbrella" } },
+        { "threshold": 51, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/yellow_umbrella" } },
+        { "threshold": 52, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/fiyero_scarecrow" } }
     ] 
   } 
 } 
