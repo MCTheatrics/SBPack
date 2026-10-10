@@ -3,7 +3,7 @@
 	"credit": "made by elizbet! ★",
 	"textures": {
 		"0": "sbcore:item/storybook/wicked/fiyero_scarecrow",
-		"1": "minecraft:block/spruce_planks",
+		"1": "sbcore:item/storybook/wicked/spruce_planks",
 		"particle": "sbcore:item/storybook/wicked/fiyero_scarecrow"
 	},
 	"elements": [
