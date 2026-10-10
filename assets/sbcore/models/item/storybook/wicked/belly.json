@@ -1,0 +1,59 @@
+{
+	"format_version": "26.3",
+	"credit": "made by elizbet! ★",
+	"textures": {
+		"0": "sbcore:item/storybook/wicked/belly",
+		"particle": "sbcore:item/storybook/wicked/belly"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 5],
+			"to": [12, 8, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 5]},
+			"faces": {
+				"north": {"uv": [5, 6, 7, 8], "texture": "#0"},
+				"east": {"uv": [4.25, 6, 5.25, 8], "texture": "#0"},
+				"west": {"uv": [6.75, 6, 7.75, 8], "texture": "#0"},
+				"up": {"uv": [7, 6, 5, 6.5], "texture": "#0"},
+				"down": {"uv": [5, 7.75, 7, 8], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [56.5, 0, 0],
+			"translation": [-5.5, -1.5, 6.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [56.5, 0, 0],
+			"translation": [-5.5, -1.5, 6.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 154, 0],
+			"translation": [5, 3.5, -4.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 154, 0],
+			"translation": [5, 3.5, -4.25]
+		},
+		"ground": {
+			"translation": [0, 6, 0]
+		},
+		"gui": {
+			"rotation": [15, -163, 0],
+			"translation": [0, 4, 0]
+		},
+		"head": {
+			"rotation": [-9, 0, 0],
+			"translation": [0, -15, -4.25],
+			"scale": [1.55, 1.55, 1.55]
+		},
+		"fixed": {
+			"translation": [0, 8.25, 0],
+			"scale": [2, 2, 2]
+		},
+		"on_shelf": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}
