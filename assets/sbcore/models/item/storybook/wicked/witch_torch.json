@@ -2,7 +2,7 @@
 	"format_version": "26.3",
 	"credit": "made by elizbet! ★",
 	"textures": {
-		"0": "sbcore:item/storybook/wicked/fire_1",
+		"0": "sbcore:block/storybook/wicked/fire_1",
 		"2": "sbcore:item/storybook/wicked/witch_torch",
 		"particle": "sbcore:item/storybook/wicked/witch_torch"
 	},
