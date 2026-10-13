@@ -63,7 +63,7 @@
         { "threshold": 54, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/smallknife" } },
         { "threshold": 55, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/nesschairnolegs" } },
         { "threshold": 56, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/hand_mirror" } },
-        { "threshold": 57, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/witch_torch" } },
+        { "threshold": 57, "model": { "type": "model", "model": "sbcore:block/storybook/wicked/witch_torch" } },
         { "threshold": 58, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/monkey_ens_hair" } },
         { "threshold": 59, "model": { "type": "model", "model": "sbcore:item/storybook/wicked/monkey_trio_hair" } }
     ] 
