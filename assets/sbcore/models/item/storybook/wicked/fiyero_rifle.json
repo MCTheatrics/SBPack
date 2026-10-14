@@ -3,8 +3,8 @@
 	"credit": "made by elizbet! ★",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/fiyero_rifle",
-		"particle": "item/fiyero_rifle"
+		"0": "sbcore:item/storybook/wicked/fiyero_rifle",
+		"particle": "sbcore:item/storybook/wicked/fiyero_rifle"
 	},
 	"elements": [
 		{
