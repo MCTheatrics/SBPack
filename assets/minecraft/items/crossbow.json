@@ -61,6 +61,13 @@
           "type": "minecraft:model",
           "model": "sbcore:item/storybook/wicked/elphaba_broom2"
         }
+      },
+      {
+        "threshold": 1002,
+        "model": {
+          "type": "minecraft:model",
+          "model": "sbcore:item/storybook/wicked/fiyero_rifle"
+        }
       }
     ]
   }
