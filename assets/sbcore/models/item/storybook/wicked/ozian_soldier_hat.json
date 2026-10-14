@@ -100,8 +100,7 @@
 			"scale": [0.65, 0.65, 0.65]
 		},
 		"head": {
-			"rotation": [14, 0, 0],
-			"translation": [0, -2, -1],
+			"translation": [0, -2.5, 0],
 			"scale": [1.1, 1.1, 1.1]
 		},
 		"fixed": {
