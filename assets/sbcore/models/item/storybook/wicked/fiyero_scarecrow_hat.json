@@ -3,8 +3,8 @@
 	"credit": "Made by elizbet.",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "fiyero_scarecrow_hat",
-		"particle": "fiyero_scarecrow_hat"
+		"0": "sbcore:item/storybook/wicked/fiyero_scarecrow_hat",
+		"particle": "sbcore:item/storybook/wicked/fiyero_scarecrow_hat"
 	},
 	"elements": [
 		{
