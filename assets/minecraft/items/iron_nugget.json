@@ -1,0 +1,24 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/iron_nugget"
+    },
+    "entries": [
+        { "threshold": 1, "model": { "type": "model", "model": "sbcore:item/storybook/posters/musical_poster" } },
+        { "threshold": 2, "model": { "type": "model", "model": "sbcore:item/storybook/posters/playbill_logo" } },
+        { "threshold": 3, "model": { "type": "model", "model": "sbcore:item/storybook/posters/elphaba_poster" } },
+        { "threshold": 4, "model": { "type": "model", "model": "sbcore:item/storybook/posters/glinda_poster" } },
+        { "threshold": 5, "model": { "type": "model", "model": "sbcore:item/storybook/posters/fiyero_poster" } },
+        { "threshold": 6, "model": { "type": "model", "model": "sbcore:item/storybook/posters/wizard_poster" } },
+        { "threshold": 7, "model": { "type": "model", "model": "sbcore:item/storybook/posters/nessarose_poster" } },
+        { "threshold": 8, "model": { "type": "model", "model": "sbcore:item/storybook/posters/boq_poster" } },
+        { "threshold": 9, "model": { "type": "model", "model": "sbcore:item/storybook/posters/morrible_poster" } },
+        { "threshold": 10, "model": { "type": "model", "model": "sbcore:item/storybook/posters/wphoto1" } },
+        { "threshold": 11, "model": { "type": "model", "model": "sbcore:item/storybook/posters/wphoto2" } },
+        { "threshold": 12, "model": { "type": "model", "model": "sbcore:item/storybook/posters/wphoto3" } }
+    ] 
+  } 
+} 
