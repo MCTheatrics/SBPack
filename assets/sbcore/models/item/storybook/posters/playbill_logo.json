@@ -1,0 +1,58 @@
+{
+	"format_version": "26.3",
+	"credit": "made by elizbet! ★",
+	"textures": {
+		"0": "sbcore:item/storybook/posters/playbill_logo",
+		"particle": "sbcore:item/storybook/posters/playbill_logo"
+	},
+	"elements": [
+		{
+			"from": [-6, 0, 8],
+			"to": [22, 9, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 6]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 9], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [2, 0, 2, 9], "texture": "#0"},
+				"up": {"uv": [0, 2, 16, 2], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -40.5, 0],
+			"translation": [6.25, 5.75, -10.75],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -40.5, 0],
+			"translation": [6.25, 5.75, -10.75],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"translation": [0, 4.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"translation": [0, 1.75, 0],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"head": {
+			"scale": [4, 4, 4]
+		},
+		"fixed": {
+			"translation": [0, 17.5, 0],
+			"scale": [4, 4, 4]
+		}
+	}
+}
