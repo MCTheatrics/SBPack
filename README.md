@@ -1,2 +1,2 @@
 # SBPack
-Where Magic Meets Theatre
+Where Minecraft Meets Theatre
